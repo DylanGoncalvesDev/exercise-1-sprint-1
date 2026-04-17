@@ -95,7 +95,7 @@
   background-color:rgb(59, 68, 88);
   display: grid;
   grid-template-columns: 1fr 1fr;
-  align-content: flex-start;
+  align-content: start;
   gap: 30px;
   padding: 30px;
 }
